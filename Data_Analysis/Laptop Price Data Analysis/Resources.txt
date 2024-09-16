@@ -2,4 +2,6 @@ Dataset link - https://www.kaggle.com/datasets/ironwolf404/laptop-price-dataset
 
 Kaggle Link - https://www.kaggle.com/code/rudraprasadbhuyan/laptop-price-analysis
 
-Medium Article -
+Medium Article - https://medium.com/@rudraprasadbhuyan999/laptop-price-sales-analysis-report-87d8c249cb6a
+
+
